@@ -20,3 +20,8 @@ IEEE Computational Intelligence Student Branch Chapter (SBC62361B) was founded a
 |Volunteer         | Ms. Aditi Bodade | 1st Jan 2021 | Present |
 |Volunteer         | Mr. Tanmay Hande | 1st Jan 2021 | Present |  
 |Volunteer         | Mr. Vivek Shelke | 1st Jan 2021 | Present |
+|Volunteer         | Mr. Praveen Bhagavatula | 1st Oct 2021 | Present |
+|Volunteer         | Ms. Samiksha Bharti | 1st Oct 2021 | Present |
+|Volunteer         | Ms. Khushi Mishra | 1st Oct 2021 | Present |
+|Volunteer         | Mr. Rutuja Naik | 1st Oct 2021 | Present |
+|Volunteer         | Ms. Shivam Patle | 1st Oct 2021 | Present |
